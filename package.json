@@ -1,0 +1,16 @@
+{
+  "name": "website-cloner",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/archiver": "^6.0.3",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "puppeteer": "^24.1.1"
+  }
+}
